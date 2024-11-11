@@ -70,8 +70,7 @@ export default function HeroHome() {
               data-aos="zoom-y-out"
               data-aos-delay={150}
             >
-              The Emili builder you're <br className="max-lg:hidden" />
-              looking for
+              Dama
             </h1>
             <div className="mx-auto max-w-3xl">
               <p
