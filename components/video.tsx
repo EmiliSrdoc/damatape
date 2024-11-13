@@ -1,7 +1,9 @@
 export default function Video() {
   return (
     <section>
-      <video src="video/dama-opt.m4v" autoPlay muted loop></video>
+      <a href="video/dama-opt.m4v">
+        <video src="video/dama-opt.m4v" autoPlay muted loop></video>
+      </a>
     </section>
   );
 }
