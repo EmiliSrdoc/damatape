@@ -6,7 +6,7 @@ export default function Video() {
         href="https://buy.stripe.com/eVa8AB8nM4clesM144"
         target="_blank"
       >
-        <span className="relative inline-flex items-center">Order Now</span>
+        <span className="relative inline-flex items-center">Buy Now</span>
       </a>
       <a href="video/dama-opt.m4v">
         <video src="video/dama-opt.m4v" autoPlay muted loop></video>
@@ -17,7 +17,7 @@ export default function Video() {
           href="https://buy.stripe.com/eVa8AB8nM4clesM144"
           target="_blank"
         >
-          <span className="relative inline-flex items-center">Order Now</span>
+          <span className="relative inline-flex items-center">Buy Now</span>
         </a>
       </div>
     </section>
