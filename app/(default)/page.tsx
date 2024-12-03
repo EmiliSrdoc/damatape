@@ -16,6 +16,7 @@ export default function Home() {
       <Video />
       <Hero />
       <FeaturesPlanet />
+      <BusinessCategories />
       {/*<LargeTestimonial />
       <Cta /> */}
     </>
