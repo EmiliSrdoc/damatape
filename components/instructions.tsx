@@ -1,4 +1,6 @@
-export default function BusinessCategories() {
+import Accordion from "./accordion";
+
+export default function Instructions() {
   return (
     <section>
       <div className="mx-auto max-w-6xl px-4 sm:px-6">
@@ -42,6 +44,29 @@ export default function BusinessCategories() {
                 </span>
               </h3>
             </article>
+          </div>
+          <div className="mt-10">
+            <Accordion title="Care & Washing Instructions" id="Instructions">
+              <ul className="text-lg">
+                <li>1. Mix a few drops of hand soap with cold soapy water.</li>
+                <li>
+                  2. Use your fingers (do not rub a towel or sponge on the
+                  adhesive) to apply the soapy water to the adhesive.
+                </li>
+                <li>
+                  3. Rinse the soapy water off the product using plain cold
+                  water.
+                </li>
+                <li>
+                  4. Let the product dry (ensure the adhesive touches the
+                  surface as little as possible).
+                </li>
+                <li>
+                  5. Place the protective layers on both sides of the product
+                  after drying.
+                </li>
+              </ul>
+            </Accordion>
           </div>
         </div>
       </div>

@@ -2,7 +2,7 @@ import Image from "next/image";
 import DamaBagImg from "@/public/images/dama-bag.png";
 import DamaLegImg from "@/public/images/dama-leg.png";
 
-export default function FeaturesPlanet() {
+export default function Features() {
   return (
     <section className="relative before:absolute before:inset-0 before:-z-20 before:bg-gray-900">
       <div className="mx-auto max-w-6xl px-4 sm:px-6">
