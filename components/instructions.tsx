@@ -46,7 +46,11 @@ export default function Instructions() {
             </article>
           </div>
           <div className="mt-10">
-            <Accordion title="Care & Washing Instructions" id="Instructions">
+            <Accordion
+              title="Care & Washing Instructions"
+              id="Instructions"
+              active
+            >
               <ul className="text-lg">
                 <li>1. Mix a few drops of hand soap with cold soapy water.</li>
                 <li>

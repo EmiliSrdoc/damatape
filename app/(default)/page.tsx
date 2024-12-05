@@ -9,6 +9,7 @@ import Features from "@/components/features";
 import LargeTestimonial from "@/components/large-testimonial";
 import Cta from "@/components/cta";
 import Video from "@/components/video";
+import FAQ from "@/components/faq";
 
 export default function Home() {
   return (
@@ -17,6 +18,7 @@ export default function Home() {
       <Hero />
       <Features />
       <Instructions />
+      <FAQ />
       {/*<LargeTestimonial />
       <Cta /> */}
     </>
