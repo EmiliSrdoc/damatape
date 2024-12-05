@@ -10,6 +10,7 @@ import LargeTestimonial from "@/components/large-testimonial";
 import Cta from "@/components/cta";
 import Video from "@/components/video";
 import FAQ from "@/components/faq";
+import BuyNow from "@/components/buy-now";
 
 export default function Home() {
   return (
@@ -19,6 +20,7 @@ export default function Home() {
       <Features />
       <Instructions />
       <FAQ />
+      <BuyNow />
       {/*<LargeTestimonial />
       <Cta /> */}
     </>
