@@ -5,7 +5,7 @@ export default function BuyNow() {
     <section className="relative">
       <BuyNowButton />
       <div className="flex justify-center">
-        <img src="images/dama-logo.jpg" alt="dama-logo" className="w-[50%]" />
+        <img src="images/dama-logo.png" alt="dama-logo" className="w-[50%]" />
       </div>
     </section>
   );
