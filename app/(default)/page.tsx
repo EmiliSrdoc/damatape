@@ -1,6 +1,6 @@
 export const metadata = {
-  title: "Dama",
-  description: "Page description",
+  title: "Dama - Prevents your skirt from riding up",
+  description: "Dama prevents your skirt from riding up",
 };
 
 import Hero from "@/components/hero-home";
